@@ -1,0 +1,21 @@
+steps involved 
+============
+step 1- importing libraries
+step 2- creating dataframe
+step 3- data cleaning
+ste 4- 
+
+
+questions on dataset
+==================
+1. what type of restaurant do the majority of customers order from?
+
+2.how many votes has each type of restaurant received from customers?
+
+3.what are the ratings that the majority of restaurants have received?
+
+4. zomato has observed that most couples order most of their food online. what is their average spending on each order?
+
+5. which mode (online or offline) has received the maximum rating?
+
+6. which type of restaurant received more offline orders, so that zomato can provide customers with some good offer?
