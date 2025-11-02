@@ -23,7 +23,7 @@ This project analyzes **Zomato sales data** to uncover **customer preferences, r
 - **Jupyter Notebook**  
 
 ## 📊 Sample Analysis  
-### 🔹 1. Most Popular Cuisines Ordered  
+### 🔹 Most Popular Cuisines Ordered  
 ```python
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -43,3 +43,9 @@ plt.xlabel("Cuisines")
 plt.ylabel("Number of Orders")
 plt.xticks(rotation=45)
 plt.show()
+```
+<hr>
+<p align="center">
+  <img src="zomato.png" alt="Zomato" width="300">
+</p>
+
